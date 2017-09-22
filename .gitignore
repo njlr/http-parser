@@ -28,3 +28,11 @@ parsertrace_g
 *.sdf
 *.vsp
 *.psess
+
+
+# Buck
+/.buckd/
+/buck-out/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
