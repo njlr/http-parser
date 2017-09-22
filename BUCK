@@ -6,8 +6,6 @@ cxx_library(
   ],
   srcs = [
     'http_parser.c',
-    'contrib/parsertrace.c',
-    'contrib/url_parser.c',
   ],
   licenses = [
     'LICENSE-MIT',
